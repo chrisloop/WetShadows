@@ -1,1 +1,1 @@
-![alt text](pic2.png "Screen Shot")# Pic
+![alt text](pic.png "Screen Shot")# Pic
